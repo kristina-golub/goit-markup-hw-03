@@ -297,11 +297,12 @@ address {
   color: #434455;
 }
 /* footer */
-.footer-section {
-  padding: 100px 0;
-}
+
 .footer-bg {
   background: #2e2f42;
+  padding: 100px 0;
+  width: 1156px;
+  height: 312px;
 }
 .accent-footer {
   color: #f4f4fd;
@@ -314,7 +315,7 @@ address {
   color: #f4f4fd;
   max-width: 264px;
 }
-.footer-logo {
+.logo .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
