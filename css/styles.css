@@ -58,6 +58,7 @@ img {
 .navigation {
   display: flex;
   align-items: center;
+  margin-right: auto;
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -141,6 +142,8 @@ address {
   text-align: center;
   color: #fff;
   max-width: 496px;
+  margin-right: auto;
+  margin-left: auto;
 }
 .hero-button {
   background: #4d5ae5;
@@ -156,6 +159,8 @@ address {
   border: none;
   background-color: #4d5ae5;
   border-radius: 4px;
+  margin-right: auto;
+  margin-left: auto;
 }
 .hero-button:hover {
   background: #404bbf;
@@ -301,8 +306,6 @@ address {
 .footer-bg {
   background: #2e2f42;
   padding: 100px 0;
-  width: 1156px;
-  height: 312px;
 }
 .accent-footer {
   color: #f4f4fd;
@@ -318,4 +321,9 @@ address {
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
+}
+.container {
+  width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
