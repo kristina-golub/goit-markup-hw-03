@@ -43,8 +43,6 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
   border-bottom: 1px solid #e7e9fc;
-  width: 1440px;
-  height: 72px;
 }
 .header-container {
   display: flex;
@@ -94,6 +92,7 @@ img {
   color: #2e2f42;
   text-decoration: none;
   padding: 24px 0;
+  display: block;
 }
 .menu-item:hover {
   color: #404bbf;
